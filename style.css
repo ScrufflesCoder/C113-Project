@@ -1,0 +1,26 @@
+#heading {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    font-size: 50px;
+    color: darkred;
+  }  
+body{
+    background-color: lightblue;
+}
+#credit{
+    font-family: 'Times New Roman', Times, serif;
+    color:darkslategrey;
+}
+#camera_div{
+    background-color: darkseagreen;
+    width: 1500px;
+    height:600px;
+}
+h3
+{
+  font-size: 25px !important;
+}
+canvas {
+    border:1px solid black;
+}
